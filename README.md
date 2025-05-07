@@ -1,1 +1,1 @@
-Git - Praktyczne porady 1.3
+Git - Praktyczne porady 1.4
