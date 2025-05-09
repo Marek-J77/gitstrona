@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Test
-=======
-dodane
->>>>>>> 75c9dbdeb656649939b7ec3ff52c238acbe68654
